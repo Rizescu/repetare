@@ -1,2 +1,1 @@
-buna4
-seara2
+buna seara 1,2,3,4
